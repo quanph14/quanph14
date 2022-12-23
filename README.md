@@ -1,4 +1,4 @@
-- 👋 Hi, I’m PHạm Hồng Quân
+- 👋 Hi, I’m Phạm Hồng Quân
 - 👀 I’m interested in technology, banking, traveling, interactive,...
 - 🌱 I’m currently learning in Codegym Academy
 - 📫 How to reach me phquan.0493@gmail.com
